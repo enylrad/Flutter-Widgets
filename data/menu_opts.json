@@ -1,0 +1,40 @@
+{
+    "nameApp" : "Widgets",
+    "routes" : [
+        {
+            "route" : "/alert",
+            "icon" : "add_alert",
+            "text": "Alertas"
+        },
+        {
+            "route" : "/avatar",
+            "icon" : "accessibility",
+            "text": "Avatars"
+        },
+        {
+            "route" : "/card",
+            "icon" : "folder_open",
+            "text": "Cards"
+        },
+        {
+            "route" : "/animation",
+            "icon" : "animation",
+            "text": "Animations"
+        },
+        {
+            "route" : "/inputs",
+            "icon" : "input",
+            "text": "Inputs"
+        },
+        {
+            "route" : "/slider",
+            "icon" : "tune",
+            "text": "Slider"
+        },
+        {
+            "route" : "/list",
+            "icon" : "list",
+            "text": "Lists"
+        }
+    ]
+}
